@@ -239,7 +239,7 @@ body {
 
 /*               team      */
 .team-item {
-    flex: 1 1 calc((100% - 72px) / 4);
+    flex: calc((100% - 72px) / 4);
     max-width: 264px;
     display: flex;
     flex-direction: column;
